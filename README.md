@@ -23,7 +23,7 @@ cd node-neo4j-template
 npm install
 ```
 
-You'll also need a local Neo4j 2.x instance.
+You' are ll also need a local Neo4j 2.x instance.
 Install it via **[neo4j.org/download](http://neo4j.org/download)**,
 or if you're on a Mac, `brew install neo4j`.
 
